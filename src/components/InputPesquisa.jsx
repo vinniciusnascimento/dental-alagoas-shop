@@ -8,7 +8,7 @@ function InputPesquisa() {
         type="text"
         placeholder="O que você procura?"
       />
-      <Search size={49} className="bg-blue-500 text-white p-3 rounded-r-xl" />
+      <Search size={49} className="bg-blue-primary text-white p-3 rounded-r-xl" />
     </div>
   );
 }
