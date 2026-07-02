@@ -6,11 +6,11 @@ function CartButton() {
             <ShoppingCart size={36} className="text-blue-primary" />
 
             <div className="flex items-start">
-                <p className="font-semibold whitespace-nowrap">
+                <p className="font-semibold font-inter whitespace-nowrap">
                     Meu carrinho
                 </p>
 
-                <span className="relative -top-2 ml-1 flex h-6 w-6 items-center justify-center rounded-full bg-blue-primary text-md font-semibold text-white">
+                <span className="relative font-inter -top-2 ml-1 flex h-6 w-6 items-center justify-center rounded-full bg-blue-primary text-md font-semibold text-white">
                     0
                 </span>
             </div>
